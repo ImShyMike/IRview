@@ -49,3 +49,39 @@ Cleaned up the schematic and made it look less like a horrible mess and more lik
 ~~i don't even know what rev this is :sob:~~
 
 **Total time spent: 1h**
+
+---
+
+# July 26th: CADDDDDD (i suck at 3D modeling)
+
+> Yes, thats Commic Sans
+
+Made the case and it's now looking less bad :sob:
+
+Has some pins to align the PCB and fix it in place and supports that _should_ make it sturdier
+
+The headers have holes so i can tap into them while the case is assembled, it doesn't look the best but should help with debugging/making the software
+
+![Case CAD with PCB](images/image-3.png)
+
+![Bottom of the case](images/image-4.png)
+
+Sadly the only model that existed was for the screen so i made the tolerances for the charger and camera less tight so the yactually fit
+
+**Total time spent: 3h**
+
+---
+
+# July 26th p2: My brain isn't working
+
+Remembered that parts don't stick together with magic so i made some adjustments for parts to snap to the correct place
+
+![Case slice](images/image-5.png)
+
+!["assembled" case](images/image-6.png)
+
+Also adjusted some tolerances to avoid having to sand stuff down
+
+**Total time spent: 2h**
+
+---
