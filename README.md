@@ -35,3 +35,5 @@ Thermal cameras are very expensive and have always felt like magic to me so why 
 | **Total** |     |  **133.17** |      |
 
 (All prices include shipping and the down arrow represent merged prices into a single order)
+
+(This BOM does not account for the buttons/headers as i already have those)
