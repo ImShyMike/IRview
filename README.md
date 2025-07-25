@@ -1,2 +1,3 @@
-# IR Cam
- Small IR camera with screen
+# IRview
+
+A tiny IR camera with a screen
