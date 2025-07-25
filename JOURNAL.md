@@ -108,3 +108,17 @@ Swapped out the resistors and capacitors for THT variants to save on cost and ch
 **Total time spent: 1h**
 
 ---
+
+# July 25th p5: Sad times
+
+I was using the wrong ESP32 and the version with PSRAM (what i need) is out of stock everywhere so ill have to swap it out to the S3 which has a completely different footprint AAAAAAAAAAAAAA
+
+Had to do a full rewire D:
+
+![Rewired PCB](images/image-11.png)
+
+Kept everything in the same spot to avoid having to redo the CAD :sob:
+
+**Total time spent: 3h**
+
+---
