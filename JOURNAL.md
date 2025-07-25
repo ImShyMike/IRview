@@ -9,7 +9,7 @@ created_at: "2025-07-25"
 
 ---
 
-# July 25th: Started researching
+# July 24th: Started researching
 
 Started looking for thermal cameras that fit in the budget and an MCU that could do some simple overlay GUI on the display
 
@@ -24,7 +24,7 @@ Datasheets and stuff:
 
 ---
 
-# July 25th pt2: Kicad go brrrr
+# July 24th pt2: Kicad go brrrr
 
 > Copious amounts of rewiring and having to remake the PCB twice because it looked horrible later...
 
@@ -40,7 +40,7 @@ The vision is there just not sure if it will turn out looking like a melted box 
 
 ---
 
-# July 25th pt3: Schematic looks less bad now
+# July 24th pt3: Schematic looks less bad now
 
 Cleaned up the schematic and made it look less like a horrible mess and more like an actual schematic :D
 
@@ -52,7 +52,7 @@ Cleaned up the schematic and made it look less like a horrible mess and more lik
 
 ---
 
-# July 26th: CADDDDDD (i suck at 3D modeling)
+# July 25th: CADDDDDD (i suck at 3D modeling)
 
 > Yes, thats Commic Sans
 
@@ -72,7 +72,7 @@ Sadly the only model that existed was for the screen so i made the tolerances fo
 
 ---
 
-# July 26th p2: My brain isn't working
+# July 25th p2: My brain isn't working
 
 Remembered that parts don't stick together with magic so i made some adjustments for parts to snap to the correct place
 
@@ -83,5 +83,28 @@ Remembered that parts don't stick together with magic so i made some adjustments
 Also adjusted some tolerances to avoid having to sand stuff down
 
 **Total time spent: 2h**
+
+---
+
+# July 25th p3: BOM stuff
+
+Some more BOM calculations:
+
+- $19.95 - [2.0" 320x240 Color IPS TFT Display](https://www.adafruit.com/product/4311)
+- $66.50 - [MLX90640 Thermal Camera Breakout](https://shop.pimoroni.com/products/mlx90640-thermal-camera-breakout?variant=12536948654163)
+- $19.95 - [PowerBoost 1000 Charger](https://www.adafruit.com/product/2465)
+- $xxxx - PCB
+
+**Total time spent: 1h**
+
+---
+
+# July 25th p4: BOM stuff
+
+Swapped out the resistors and capacitors for THT variants to save on cost and changed some routing
+
+![Changed PCB](images/image-10.png)
+
+**Total time spent: 1h**
 
 ---
