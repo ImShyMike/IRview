@@ -5,7 +5,7 @@ description: "A tiny IR camera with a screen"
 created_at: "2025-07-25"
 ---
 
-## Total time: -
+## Total time: 21 hours
 
 ---
 
@@ -122,3 +122,12 @@ Kept everything in the same spot to avoid having to redo the CAD :sob:
 **Total time spent: 3h**
 
 ---
+
+# July 25th p6: Checking prices
+
+Calculated the prices at checkout and arrived at this:
+
+- $6.16 - PCB
+- $17.19 - Components
+
+**Total time spent: 1h**

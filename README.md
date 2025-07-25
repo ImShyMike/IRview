@@ -5,6 +5,13 @@ A tiny IR camera with a screen. It's powered by an ESP32-WROOM-32E with 2mb of P
 The 320x240px screen at the front is used to display the image data, battery and temperature readings and the buttons are used to switch modes. All pin headers are exposed, even when the case is assembled, to help with debugging. It does not include an usb to UART chip so programming must be done using the exposed TX/RX pins with an external programmer.
 
 ---
+
+## Why
+
+Thermal cameras are very expensive and have always felt like magic to me so why not try to make my own on a budget (while also finding out that IR sensors are way more expensive than i expected and that AliExpress always saves the day) :D
+
+---
+
 ![Final Render](images/image-9.png)
 
 ---
@@ -19,12 +26,12 @@ The 320x240px screen at the front is used to display the image data, battery and
 
 | Part      | Qty | Price (USD) | Link |
 | --------- | :-: | :---------: | ---- |
-|           |  1  |             |      |
-|           |  1  |             |      |
-|           |  1  |             |      |
-|           |  1  |             |      |
-|           |  1  |             |      |
-|           |  1  |             |      |
-|           |  1  |             |      |
-|           |  1  |             |      |
-| **Total** |     |  ****       |      |
+|  MLX90640 |  1  | 31.32 | https://www.aliexpress.us/item/1005008180135795.html |
+| 2.0" 320x240 Color IPS TFT Display |  1  | V | https://www.adafruit.com/product/4311 |
+| PowerBoost 1000 Charger |  1  | 72.91 | https://www.adafruit.com/product/2465 |
+| ESP32-S3-WROOM-1-N8R8 |  2  | V | https://lcsc.com/product-detail/WiFi-Modules_ESPRESSIF-ESP32-S3-WROOM-1-N8R8_C2913201.html |
+| AMS1117-3.3 |  5  | 22.78 | https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html |
+| PCB |  1  | 6.16 | - |
+| **Total** |     |  **133.17** |      |
+
+(All prices include shipping and the down arrow represent merged prices into a single order)
