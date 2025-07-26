@@ -131,3 +131,11 @@ Calculated the prices at checkout and arrived at this:
 - $17.19 - Components
 
 **Total time spent: 1h**
+
+---
+
+# July 26th: AliExpress maxxing
+
+Changing stuff to AliExpress to save on cost
+
+**Total time spent: 1h**
