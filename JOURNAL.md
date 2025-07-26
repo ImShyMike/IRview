@@ -2,7 +2,7 @@
 title: "IRview"
 author: "ShyMike"
 description: "A tiny IR camera with a screen"
-created_at: "2025-07-25"
+created_at: "2025-07-24"
 ---
 
 ## Total time: 21 hours
