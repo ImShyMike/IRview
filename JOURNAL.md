@@ -139,3 +139,15 @@ Calculated the prices at checkout and arrived at this:
 Changing stuff to AliExpress to save on cost
 
 **Total time spent: 1h**
+
+---
+
+# July 26th pt2: Cheaper display
+
+Had to use a display from AliExpress that has a very different pinout so it required some rewiring
+
+![Changed schematic](images/image-13.png)
+
+![Changed PCB](images/image-14.png)
+
+**Total time spent: 1h**
