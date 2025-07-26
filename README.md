@@ -33,13 +33,13 @@ Thermal cameras are very expensive and have always felt like magic to me so why 
 | Part      | Qty | Price (USD) | Link |
 | --------- | :-: | :---------: | ---- |
 |  MLX90640 |  1  | 31.32 | https://www.aliexpress.us/item/1005008180135795.html |
-| 2.0" 320x240 Color IPS TFT Display |  1  | V | https://www.adafruit.com/product/4311 |
-| PowerBoost 1000 Charger |  1  | 72.91 | https://www.adafruit.com/product/2465 |
-| ESP32-S3-WROOM-1-N8R8 |  2  | V | https://lcsc.com/product-detail/WiFi-Modules_ESPRESSIF-ESP32-S3-WROOM-1-N8R8_C2913201.html |
-| AMS1117-3.3 |  5  | 22.78 | https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html |
+| 2.0" 320x240 Color IPS TFT Display |  1  | 19.95 - V | https://www.adafruit.com/product/4311 |
+| PowerBoost 1000 Charger |  1  | 19.95 - (72.91 vendor total) | https://www.adafruit.com/product/2465 |
+| ESP32-S3-WROOM-1-N8R8 |  2  | 11.03 - V | https://lcsc.com/product-detail/WiFi-Modules_ESPRESSIF-ESP32-S3-WROOM-1-N8R8_C2913201.html |
+| AMS1117-3.3 |  5  | 0.87 - (22.78 vendor total) | https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html |
 | PCB |  1  | 6.16 | - |
 | **Total** |     |  **133.17** |      |
 
-(All prices include shipping and the down arrow represent merged prices into a single order)
+(All total vendor prices include shipping and the down arrow represents merged prices in a single order)
 
 (This BOM does not account for the buttons/headers as i already have those)
