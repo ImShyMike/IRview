@@ -22,6 +22,12 @@ Thermal cameras are very expensive and have always felt like magic to me so why 
 
 ---
 
+## Schematic
+
+![Schematic](images/image-12.png)
+
+---
+
 ## BOM
 
 | Part      | Qty | Price (USD) | Link |
